@@ -1,28 +1,39 @@
 **_[UIST 2024](https://uist.acm.org/2024) Workshop - Pittsburgh, Oct 13-16_**
 
-[Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT) \
-[Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech) , [Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zheng](http://CZhang.org) (Cornell) \
-[Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW)
+[Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech), \
+[Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zheng](http://CZhang.org) (Cornell), [Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW).
 
 ![banner](https://github.com/user-attachments/assets/71486ce1-8ce5-45b0-9e0b-b36d5acf2886)
 _Illustrating the breadth of wearable research, from materials science (1), to energy harvesting (2), haptics for spacesuits (3), sustainable devices (4), to knitted neural networks (5)._
 
+## Pre-registration
+
+> <b>Fill in the following form if you want to come, it will greatly help improve the event:</b>\
+> <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScsbEHsI0MXV3qG2rtDLAx0Vc4ukU_gvqLXNGl5wLeVO5We3w/viewform">docs.google.com/forms/d/e/1FAIpQLScsbEHsI0MXV3qG2rtDLAx0Vc4ukU_gvqLXNGl5wLeVO5We3w/viewform</a></b>
+
+> If you have questions you can contact us here: \
+> <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
+
+
+
 ## Abstract
-  Wearables have long been integral to human culture and daily life.
-  Recent advances in intelligent soft wearables have dramatically
-  transformed how we interact with the world, enhancing our health,
-  productivity, and overall well-being. These innovations, combining
-  advanced sensor design, fabrication, and computational power, offer
-  unprecedented opportunities for monitoring, assistance, and
-  augmentation. However, the benefits of these advancements are not yet
-  universally accessible. Economic and technical barriers often limit
-  the reach of these technologies to domain-specific experts. There is a
-  growing need for democratizing intelligent wearables that are
-  scalable, seamlessly integrated, customized, and adaptive. By bringing
-  researchers from relevant disciplines together, this workshop aims to
-  identify the challenges and investigate opportunities for
-  democratizing intelligent soft wearables within the HCI community via
-  interactive demos, invited keynotes, and focused panel discussions.
+
+Wearables have long been integral to human culture and daily life.
+Recent advances in intelligent soft wearables have dramatically
+transformed how we interact with the world, enhancing our health,
+productivity, and overall well-being. These innovations, combining
+advanced sensor design, fabrication, and computational power, offer
+unprecedented opportunities for monitoring, assistance, and
+augmentation. However, the benefits of these advancements are not yet
+universally accessible. Economic and technical barriers often limit
+the reach of these technologies to domain-specific experts. There is a
+growing need for democratizing intelligent wearables that are
+scalable, seamlessly integrated, customized, and adaptive. By bringing
+researchers from relevant disciplines together, this workshop aims to
+identify the challenges and investigate opportunities for
+democratizing intelligent soft wearables within the HCI community via
+interactive demos, invited keynotes, and focused panel discussions.
+
 
 ## Introduction
 
@@ -105,6 +116,7 @@ Topics of interest for the workshop include for example:
 
 -   Miniaturization for conformability
 
+
 ## Workshop Activities
 
 ### Opening Session
@@ -178,12 +190,3 @@ digital fabrication, wearables, toolkit development, embedded AI,
 computational sensing, and personalized modeling. We will advertise for
 participation not only within the UIST community but also within
 human-robot interaction and other AI venues.
-
----
-
-_**A link will be provided to allow submitting participation proposal.**_
-
-Meanwhile, if you have questions you can contact us here:
-
-<ins>SoftWearables(at)mit.edu</ins>
-
