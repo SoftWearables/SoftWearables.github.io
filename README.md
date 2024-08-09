@@ -26,9 +26,9 @@ Wearables have long been integral to human culture and daily life.  Recent advan
 
 ## Introduction
 
-Recent developments in materials science, digital fabrication, and applied machine learning have enabled significant advances in intelligent soft wearables. At the intersection of wearable technology and applied artificial intelligence, these wearables seamlessly integrate functionalities with the human body, serving as conformal sensing and actuation interfaces, and unobtrusively extract information and generate optimal feedback combined with advanced computational techniques. Some research efforts have been prioritizing functionality over conformability, either for sensing or actuation, but we propose to further investigate soft interfaces that conform to the body. They have already served as interactive interfaces, behavior monitoring and learning systems, assistive wearables, human augmentation, and entertainment, demonstrating great potential in HCI, healthcare, AR/VR, robotics, and space, among other applications.
+Recent developments in materials science, digital fabrication, and applied machine learning have enabled significant advances in intelligent soft wearables. At the intersection of wearable technology and applied artificial intelligence, these wearables seamlessly integrate functionalities with the human body, serving as conformal sensing and actuation interfaces, and unobtrusively extract information and generate optimal feedback combined with advanced computational techniques. Some research efforts have been prioritizing functionality over conformability, either for sensing [2, 7, 10, 24] or actuation[4, 22, 25], but we propose to further investigate soft interfaces that conform to the body. They have already served as interactive interfaces [1, 8, 19, 23, 28], behavior monitoring and learning systems [13, 27, 29, 30], assistive wearables [5, 11, 14], human augmentation [9, 12, 18, 21], and entertainment [3, 6, 16, 20, 26], demonstrating great potential in HCI, healthcare, AR/VR, robotics, and space, among other applications.
 
-However, despite their significant potential, most current intelligent wearables are still localized to specific parts of the body, function for only short periods, and are tailored to specific users and scenarios (as in ElectroDermis or SmartSleeve). Additionally, the design, fabrication, and application of intelligent soft wearables generally require domain-specific knowledge and interdisciplinary integration.
+However, despite their significant potential, most current intelligent wearables are still localized to specific parts of the body, function for only short periods, and are tailored to specific users and scenarios (as in ElectroDermis [15] or SmartSleeve[17]). Additionally, the design, fabrication, and application of intelligent soft wearables generally require domain-specific knowledge and interdisciplinary integration.
 
 In this workshop, we aim to analyze the challenges and explore the opportunities in the democratization of such intelligent soft wearables, enabling them to be scalable, robust, customizable, and adaptive. The structure of the workshop is designed to maximize engagement through a combination of keynotes, interactive demos, group discussions, and expert panels.
 
@@ -158,3 +158,79 @@ digital fabrication, wearables, toolkit development, embedded AI,
 computational sensing, and personalized modeling. We will advertise for
 participation not only within the UIST community but also within
 human-robot interaction and other AI venues.
+
+
+## References
+
+[1] Laura Devendorf, Joanne Lo, Noura Howell, Jung Lin Lee, Nan-Wei Gong, M Emre Karagozler, Shiho Fukuhara, Ivan Poupyrev, Eric Paulos, and Kimiko Ryokai. 2016. " I don't Want to Wear a Screen" Probing Perceptions of and Possibilities for Dynamic Displays on Clothing. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. 6028–6039. 
+
+[2] Nathan Devrio and Chris Harrison. 2022. DiscoBand: Multiview Depth-Sensing Smartwatch Strap for Hand, Body and Environment Tracking. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 1–13. 
+
+[3] Maurin Donneaud, Cedric Honnet, and Paul Strohmeier. 2017. Designing a Multi-Touch eTextile for Music Performances. In Proceedings of the International Conference on New Interfaces for Musical Expression. 
+
+[4] Zhu et al.2024. PortaChrome: A Portable Contact Light Source for Integrated Re-Programmable Multi-Color Textures. In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology. 
+
+[5] Jack Forman, Ozgun Kilic-Afsar, Sarah Nicita, Rosalie Hsin-Ju Lin, Liu Yang, Megan Hofmann, Akshay Kothakonda, Zachary Gordon, Cedric Honnet, Kristen Dorsey, Neil Gershenfeld, and Hiroshi Ishii. 2023. FibeRobo: Fabricating 4D Fiber Interfaces by Continuous Drawing of Temperature Tunable Liquid Crystal Elastomers. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology(UIST ’23). Association for Computing Machinery.
+
+[6] Rachel Freire, Cedric Honnet, and Paul Strohmeier. 2017. Second Skin: An Exploration of eTextile Stretch Circuits on the Body. In Proceedings of the Eleventh International Conference on Tangible, Embedded, and Embodied Interaction. 653–658. 
+
+[7] Cédric Honnet and Gonçalo Lopes. 2019. HiveTracker: 3D positioning for ubiquitous embedded systems. In Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers. 288–291. 
+
+[8] Cedric Honnet, Hannah Perner-Wilson, Marc Teyssier, Bruno Fruchard, Jürgen Steimle, Ana C. Baptista, and Paul Strohmeier. 2020. PolySense: Augmenting Textiles with Electrical Functionality Using In-Situ Polymerization. Association for Computing Machinery, New York, NY, USA, 1–13.
+
+[9] Ozgun Kilic Afsar, Ali Shtarbanov, Hila Mor, Ken Nakagaki, Jack Forman, Karen Modrei, Seung Hee Jeong, Klas Hjort, Kristina Höök, and Hiroshi Ishii. 2021. OmniFiber: Integrated fluidic fiber actuators for weaving movement based interactions into the ‘fabric of everyday life’. In The 34th Annual ACM Symposium on User Interface Software and Technology. 1010–1026. 
+
+[10] Daehwa Kim and Chris Harrison. 2022. EtherPose: Continuous hand pose tracking with wrist-worn antenna impedance characteristic sensing. In Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 1–12. 
+
+[11] Jin Hee Kim, Joan Stilling, Michael O'Dell, and Cindy Hsin-Liu Kao. 2023. Knitdema: robotic textile as personalized edema mobilization device. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 1–19. 
+
+[12] Pedro Lopes, Alexandra Ion, and Patrick Baudisch. 2015. Impacto: Simulating physical impact by combining tactile stimulation with electrical muscle stimulation. In Proceedings of the 28th annual ACM symposium on user interface software & technology. 11–19. 
+
+[13] Yiyue Luo, Yunzhu Li, Pratyusha Sharma, Wan Shou, Kui Wu, Michael Foshey, Beichen Li, Tomás Palacios, Antonio Torralba, and Wojciech Matusik. 2021. Learning human–environment interactions using conformal tactile textiles. Nature Electronics 4, 3 (2021), 193–201. 
+
+[14] Yiyue Luo, Kui Wu, Andrew Spielberg, Michael Foshey, Daniela Rus, Tomás Palacios, and Wojciech Matusik. 2022. Digital fabrication of pneumatic actuators with integrated sensing by machine knitting. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems. 1–13. 
+
+[15] Eric Markvicka, Guanyun Wang, Yi-Chin Lee, Gierad Laput, Carmel Majidi, and Lining Yao. 2019. Electrodermis: Fully untethered, stretchable, and highly-customizable electronic bandages. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. 1–10. 
+
+[16] Alex Olwal, Jon Moeller, Greg Priest-Dorman, Thad Starner, and Ben Carroll. 2018. I/O Braid: Scalable touch-sensitive lighted cords using spiraling, repeating sensing textiles and fiber optics. In Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology. 485–497. 
+
+[17] Patrick Parzer, Adwait Sharma, Anita Vogl, Jürgen Steimle, Alex Olwal, and Michael Haller. 2017. SmartSleeve: real-time sensing of surface and deformation gestures on flexible, interactive textiles, using a hybrid gesture detection pipeline. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology. 565–577. 
+
+[18] Syamantak Payra, Irmandy Wicaksono, Juliana Cherston, Cedric Honnet, Valentina Sumini, and Joseph A Paradiso. 2021. Feeling through spacesuits: Application of space-resilient E-Textiles to enable haptic feedback on pressurized extravehicular suits. In 2021 IEEE Aerospace Conference (50100). IEEE, 1–12. 
+
+[19] Ivan Poupyrev, Nan-Wei Gong, Shiho Fukuhara, Mustafa Emre Karagozler, Carsten Schwesig, and Karen E Robinson. 2016. Project Jacquard: interactive digital textiles at scale. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. 4216–4227. 
+
+[20] Thomas Preindl, Cedric Honnet, Andreas Pointner, Roland Aigner, Joseph A Paradiso, and Michael Haller. 2020. Sonoflex: Embroidered speakers without permanent magnets. In Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology. 675–685. 
+
+[21] Jun Rekimoto. 2001. Gesturewrist and gesturepad: Unobtrusive wearable interaction devices. In Proceedings Fifth International Symposium on Wearable Computers. IEEE, 21–27. 
+
+[22] Vivian Shen, Tucker Rae-Grant, Joe Mullenbach, Chris Harrison, and Craig Shultz. 2023. Fluid reality: High-resolution, untethered haptic gloves using electroosmotic pump arrays. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology. 1–20. 
+
+[23] Zilin Si, Tianhong Catherine Yu, Katrene Morozov, James McCann, and Wenzhen Yuan. 2023. RobotSweater: scalable, generalizable, and customizable machine-knitted tactile skins for robots. In 2023 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 10352–10358. 
+
+[24] Paul Strohmeier, Cedric Honnet, and Samppa Von Cyborg. 2016. Developing an ecosystem for interactive electronic implants. In Biomimetic and Biohybrid Systems: 5th International Conference, Living Machines 2016, Edinburgh, UK, July 19-22, 2016. Proceedings 5. Springer, 518–525. 
+
+[25] Gabriela Vega, Valentin Martinez-Missir, Dennis Wittchen, Nihar Sabnis, Audrey Girouard, Karen Anne Cochrane, and Paul Strohmeier. 2024. vARitouch: Back of the Finger Device for Adding Variable Compliance to Rigid Objects. In Proceedings of the CHI Conference on Human Factors in Computing Systems. 1–20. 
+
+[26] Nicolas Villar, Daniel Cletheroe, Greg Saul, Christian Holz, Tim Regan, Oscar Salandin, Misha Sra, Hui-Shyong Yeo, William Field, and Haiyan Zhang. 2018. Project zanzibar: A portable and flexible tangible interaction platform. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. 1–13. 
+
+[27] Irmandy Wicaksono, Peter G Hwang, Samir Droubi, Franny Xi Wu, Allison N Serio, Wei Yan, and Joseph A Paradiso. 2022. 3dknits: Three-dimensional digital knitting of intelligent textile sensor for activity recognition and biomechanical monitoring. In 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2403–2409. 
+
+[28] Irmandy Wicaksono and Joseph A Paradiso. 2017. Fabrickeyboard: multimodal textile sensate media as an expressive and deformable musical interface.. In NIME, Vol. 17. 348–353. 
+
+[29] Tianhong Catherine Yu, Riku Arakawa, James McCann, and Mayank Goel. 2023. uKnit: A Position-Aware Reconfigurable Machine-Knitted Wearable for Gestural Interaction and Passive Sensing using Electrical Impedance Tomography. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems. 1–17. 
+
+[30] Bo Zhou, Daniel Geissler, Marc Faulhaber, Clara Elisabeth Gleiss, Esther Friederike Zahn, Lala Shakti Swarup Ray, David Gamarra, Vitor Fortes Rey, Sungho Suh, Sizhen Bian, et al. 2023. Mocapose: Motion capturing with textile-integrated capacitive sensors in loose-fitting smart garments. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 7, 1 (2023), 1–40.
+
+
+
+<hr/>
+
+
+## Cite this paper:
+
+UIST Adjunct '24, October 13–16, 2024, Pittsburgh, PA, USA
+© 2024 Copyright held by the owner/author(s).
+ACM ISBN 979-8-4007-0718-6/24/10.
+DOI: https://doi.org/10.1145/3672539.3686707
+
