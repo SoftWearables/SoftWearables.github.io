@@ -15,59 +15,28 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 > <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
 
+## Keywords
+Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, Actuation, Materials Sciences, Energy Harvesting.
+
 
 ## Abstract
 
-Wearables have long been integral to human culture and daily life.
-Recent advances in intelligent soft wearables have dramatically
-transformed how we interact with the world, enhancing our health,
-productivity, and overall well-being. These innovations, combining
-advanced sensor design, fabrication, and computational power, offer
-unprecedented opportunities for monitoring, assistance, and
-augmentation. However, the benefits of these advancements are not yet
-universally accessible. Economic and technical barriers often limit
-the reach of these technologies to domain-specific experts. There is a
-growing need for democratizing intelligent wearables that are
-scalable, seamlessly integrated, customized, and adaptive. By bringing
-researchers from relevant disciplines together, this workshop aims to
-identify the challenges and investigate opportunities for
-democratizing intelligent soft wearables within the HCI community via
-interactive demos, invited keynotes, and focused panel discussions.
+Wearables have long been integral to human culture and daily life.  Recent advances in intelligent soft wearables have dramatically transformed how we interact with the world, enhancing our health, productivity, and overall well-being. These innovations, combining advanced sensor design, fabrication, and computational power, offer unprecedented opportunities for monitoring, assistance, and augmentation. However, the benefits of these advancements are not yet universally accessible. Economic and technical barriers often limit the reach of these technologies to domain-specific experts. There is a growing need for democratizing intelligent wearables that are scalable, seamlessly integrated, customized, and adaptive. By bringing researchers from relevant disciplines together, this workshop aims to identify the challenges and investigate opportunities for democratizing intelligent soft wearables within the HCI community via interactive demos, invited keynotes, and focused panel discussions.
 
 
 ## Introduction
 
-Recent developments in materials science, digital fabrication, and
-applied machine learning have enabled huge advances in intelligent soft
-wearables. At the intersection of wearable technology and applied
-artificial intelligence, these wearables seamlessly integrate
-functionalities with the human body, serving as conformal sensing and
-actuation interfaces, and unobtrusively extract information and generate
-optimal feedback combined with advanced computational techniques. They
-have served as interactive interfaces, behavior monitoring and learning
-systems, assistive wearables, human augmentation, and entertainment,
-demonstrating huge potential in HCI, healthcare, AR/VR, robotics, and
-space, among other applications.
+Recent developments in materials science, digital fabrication, and applied machine learning have enabled significant advances in intelligent soft wearables. At the intersection of wearable technology and applied artificial intelligence, these wearables seamlessly integrate functionalities with the human body, serving as conformal sensing and actuation interfaces, and unobtrusively extract information and generate optimal feedback combined with advanced computational techniques. Some research efforts have been prioritizing functionality over conformability, either for sensing or actuation, but we propose to further investigate soft interfaces that conform to the body. They have already served as interactive interfaces, behavior monitoring and learning systems, assistive wearables, human augmentation, and entertainment, demonstrating great potential in HCI, healthcare, AR/VR, robotics, and space, among other applications.
 
-However, despite their significant potential, most current intelligent
-wearables are still localized to specific parts of the body, function
-for only short periods, and are tailored to specific users and scenarios
-(as in ElectroDermis  or
-SmartSleeve). Additionally, the design,
-fabrication, and application of intelligent soft wearables generally
-require domain-specific knowledge and interdisciplinary integration.
+However, despite their significant potential, most current intelligent wearables are still localized to specific parts of the body, function for only short periods, and are tailored to specific users and scenarios (as in ElectroDermis or SmartSleeve). Additionally, the design, fabrication, and application of intelligent soft wearables generally require domain-specific knowledge and interdisciplinary integration.
 
-In this workshop, we aim to analyze the challenges and explore the huge
-opportunities in the democratization of such intelligent soft wearables,
-enabling them to be scalable, robust, customizable, and adaptive. The
-workshop will be structured to maximize engagement through a combination
-of keynotes, interactive demos, group discussions, and expert panels.
+In this workshop, we aim to analyze the challenges and explore the opportunities in the democratization of such intelligent soft wearables, enabling them to be scalable, robust, customizable, and adaptive. The structure of the workshop is designed to maximize engagement through a combination of keynotes, interactive demos, group discussions, and expert panels.
 
 ## Scope: Goals & Topics
 
 The democratization of intelligent soft wearables requires
-interdisciplinary efforts. In this workshop, we will focus on the
-following research questions:
+interdisciplinary efforts. In this workshop, we focus on the following
+research questions:
 
 -   How do we effectively customize the form factor and functionalities
     of intelligent soft wearables for diverse individuals with
@@ -96,7 +65,7 @@ The goal of our workshop includes:
     enrich the development of intelligent wearable devices for HCI
     through diverse perspectives.
 
-Topics of interest for the workshop include for example:
+Topics of interest for the workshop include, for example:
 
 -   Accessible computational design
 
@@ -110,14 +79,13 @@ Topics of interest for the workshop include for example:
 
 -   Multi-function multimodal wearable ecosystems
 
--   Large-scale long-term deployment for evaluation
+-   Evaluating large-scale and long-term deployment
 
--   Personalization and generic one-for-all wearables
+-   Personalization VS generic one-for-all wearables
 
 -   Miniaturization for conformability
 
-
-## Workshop Activities
+## Workshop Plan
 
 ### Opening Session
 
@@ -127,10 +95,10 @@ agenda and objectives for the day.
 ### Keynotes (1 hour)
 
 In the morning, we plan to invite 2 keynote speakers in the field to
-present for 30 minutes. They
-will talk about insights into the latest advancements and future trends
-in intelligent soft wearables. The keynotes will provide some background
-information for interactive discussion and panels in the afternoon.
+present for 30 minutes. They will talk about insights into the latest
+advancements and future trends in intelligent soft wearables. The
+keynotes will provide some background information for interactive
+discussion and panels in the afternoon.
 
 ### Spotlight and Demo Session (2 hours)
 
@@ -147,32 +115,32 @@ explore the showcased demos. This format aims to promote collaboration,
 inspire new ideas, and facilitate networking among researchers,
 designers, and practitioners in the HCI field.
 
-### Group Discussion on Challenges and Opportunities (1 hour)
-
-The afternoon session will start with a group discussion. Participants
-will be divided into subgroups and engage in a collaborative discussion
-to identify and analyze the major challenges and opportunities in
-democratizing intelligent wearables. This session will facilitate the
-exchange of ideas and experiences from various perspectives. Organizers
-will provide example discussion topics and research questions that touch
-upon critical aspects of democratization. Building on the previous
-keynotes, this session will then focus on exploring opportunities and
-potential solutions in the design, fabrication, and computational
-aspects of intelligent wearables.
-
 ### Panel Discussion (1 hour)
 
-To prepare for this session, organizers will invite a panel of 3-4
-experts in the fields. During the panel session, participants will be
-encouraged to engage actively with the panelists. They will have the
-opportunity to explore in-depth the challenges and opportunities
-previously identified during group discussions. Organizers will moderate
-this dialogue by collecting questions from participants in advance
-through Slido, ensuring that the session addresses the most pressing
-issues and interests of the audience. By leveraging the expertise of the
-panelists and the input from attendees, the session aims to generate
-valuable discussions and actionable strategies for advancing the field
-of intelligent wearables.
+To prepare for a group discussion on challenges and opportunities of
+intelligent wearables, organizers will invite a panel of 3-5 experts in
+the fields. During the panel session, participants will be encouraged to
+engage actively with the panelists. They will have the opportunity to
+explore in-depth the challenges and opportunities previously identified
+during group discussions. Organizers will moderate this dialogue by
+collecting questions from participants in advance through Slido,
+ensuring that the session addresses the most pressing issues and
+interests of the audience. By leveraging the expertise of the panelists
+and the input from attendees, the session aims to generate valuable
+discussions and actionable strategies for advancing the field of
+intelligent wearables.
+
+### Group Discussion on Challenges and Opportunities (1 hour)
+
+Participants will be divided into subgroups and engage in a
+collaborative discussion to identify and analyze the major challenges
+and opportunities in democratizing intelligent wearables. This session
+will facilitate the exchange of ideas and experiences from various
+perspectives. Organizers will provide example discussion topics and
+research questions that touch upon critical aspects of democratization.
+Building on the previous keynotes, this session will then focus on
+exploring opportunities and potential solutions in the design,
+fabrication, and computational aspects of intelligent wearables.
 
 ### Closing Session (1 hour)
 
