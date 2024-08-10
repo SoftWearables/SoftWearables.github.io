@@ -6,6 +6,7 @@
 ![banner](https://github.com/user-attachments/assets/71486ce1-8ce5-45b0-9e0b-b36d5acf2886)
 _Illustrating the breadth of wearable research, from materials science (1), to energy harvesting (2), haptics for spacesuits (3), sustainable devices (4), to knitted neural networks (5)._
 
+
 ## Pre-registration
 
 > <b>Fill in the following form if you want to come, it will greatly help improve the event:</b>\
@@ -14,6 +15,17 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 > If you have questions you can contact us here: \
 > <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
+
+## Updates 📢
+
+The keynote speakers are confirmed!
+- [Scott Hudson](https://hcii.cmu.edu/people/scott-hudson)
+- [Carmel Madjidi](https://www.meche.engineering.cmu.edu/directory/bios/majidi-carmel.html) 
+
+
+<hr/>
+
+# Details about the workshop
 
 ## Keywords
 Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, Actuation, Materials Sciences, Energy Harvesting.
