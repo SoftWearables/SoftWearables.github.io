@@ -15,10 +15,11 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 > If you have questions you can contact us here: \
 > <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
+---
 
 ## News 📢
 
-**The schedule is up!** (more details [below](https://softwearables.github.io/#schedule-details))
+**1) The schedule is up!** (more details [below](https://softwearables.github.io/#schedule-details))
 
 | Time     | Duration | Event                                              |
 | -------- | -------- | -------------------------------------------------- |
@@ -32,6 +33,32 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 | 3:00 PM  | 0 h 30   | Coffee Break                                       |
 | 3:30 PM  | 1 h 00   | **Group Discussion on Challenges & Opportunities** |
 | 4:30 PM  | 0 h 30   | **Closing Session**                                |
+
+---
+
+**2) Keynote Abstracts**
+
+- _Scott Hudson_
+
+"Soft is Hard: Some thoughts on organizing the challenges, and starting on the work"
+
+Abstract: Fabricating things which are soft is a very important goal for the HCI component of the computational fabrication community.  Soft objects have critically important attributes when considered for human use.  Soft material -- textiles in particular -- are the only material which we keep in contact with our bodies 99% of the day.  And there are good reasons why this is true.  But while there is a very long history of humans creating with these materials, they can be challenging to use in a computational fabrication context.  For example, they can be unruly to handle in a fabrication machine, and hard to model or simulate, compared to rigid materials.
+In this talk, I will first try to give some structure to the several different types of challenges we need to address in this area, and then turn to just a few specific exemplar projects I and my collaborators have undertaken within that structure.
+
+
+- _Carmel Madjidi_
+
+"Energy Harvesting for Battery-Free Soft Wearables"
+
+Abstract: Over the past decade, there’s been tremendous advancements in soft and highly stretchable circuitry for use in epidermal electronics for health monitoring, wearable computing, and soft robotics.
+As these technologies continue to improve, there is increasing interest in new material architectures for energy harvesting and battery-free operation.
+Several promising approaches leverage various sources of energy that are created by the body through repeated surface contact, kinetic motion, or heat.
+As with the sensors and circuits that they power, these energy harvesting transducers should be soft and stretchable so that they conform to the human body without causing discomfort or impairing natural motion.
+In this talk, I will present several methods for achieving fully battery-free functionality of soft wearable devices that rely on various energy harvesting modalities.
+Specifically, I will show how liquid metal alloys like eutectic gallium indium (EGaIn) can be used to produce soft material architectures that can convert body heat or limb motion into electricity using thermoelectric or triboelectric coupling, respectively.
+To demonstrate the practicality of these battery-free wearables, I will show how they can be used to power a variety of body-mounted electronic devices for temperature sensing, humidity sensing, pulse oximetry, signal processing, and wireless radio communication.
+As time permits, I will also show how these EGaIn-based architectures can be extended to other applications related to soft robotics and intelligent soft materials.
+
 
 
 <hr/>
