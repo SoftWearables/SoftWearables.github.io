@@ -1,4 +1,4 @@
-**_[UIST 2024](https://uist.acm.org/2024) Workshop - Pittsburgh, Oct 13-16_**
+**_[UIST 2024](https://uist.acm.org/2024) Workshop - CMU (Pittsburgh), Oct 13_**
 
 [Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech), \
 [Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zhang](http://CZhang.org) (Cornell), [Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW).
@@ -7,19 +7,18 @@
 _Illustrating the breadth of wearable research, from materials science (1), to energy harvesting (2), haptics for spacesuits (3), sustainable devices (4), to knitted neural networks (5)._
 
 
-## Pre-registration
+## Links
 
-> <b>Fill in the following form if you want to come, it will greatly help improve the event:</b>\
-> <b><a href="https://docs.google.com/forms/d/e/1FAIpQLScsbEHsI0MXV3qG2rtDLAx0Vc4ukU_gvqLXNGl5wLeVO5We3w/viewform">docs.google.com/forms/d/e/1FAIpQLScsbEHsI0MXV3qG2rtDLAx0Vc4ukU_gvqLXNGl5wLeVO5We3w/viewform</a></b>
-
-> If you have questions you can contact us here: \
-> <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
+> **Workshop location: [CMU Gates Hillman Center](https://maps.app.goo.gl/h5DxjZ7drtKeC2My8) => room NSH 3305**
+> 
+> Contact us: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
 ---
 
 ## News 📢
 
-**1) The schedule is up!** (more details [below](https://softwearables.github.io/#schedule-details))
+### 1) The schedule is up!
+(more details [below](https://softwearables.github.io/#schedule-details))
 
 | Time     | Duration | Event                                              |
 | -------- | -------- | -------------------------------------------------- |
@@ -36,7 +35,7 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 
 ---
 
-**2) Keynote Abstracts**
+### 2) Keynote Abstracts
 
 - _Scott Hudson_
 
@@ -284,7 +283,7 @@ human-robot interaction and other AI venues.
 <hr/>
 
 
-## Cite [the paper](https://honnet.github.io/publications/UIST24-SoftWearables.pdf):
+## Cite the paper ([PDF](https://honnet.github.io/publications/UIST24-SoftWearables.pdf)):
 
     Cedric Honnet, Catherine Yu, Irmandy Wicaksono, Tingyu Cheng, Andreea Danielescu, Cheng Zhang, Stefanie Mueller, Joe Paradiso, Yiyue Luo.
     "Democratizing Intelligent Soft Wearables."
@@ -292,7 +291,7 @@ human-robot interaction and other AI venues.
 
 LaTex:
 
-    @inproceedings{UIST24_SoftWearable,
+    @inproceedings{UIST24_SoftWearables,
       title={Democratizing Intelligent Soft Wearables},
       author={Honnet, Cedric and Yu, Catherine and Wicaksono, Irmandy and Cheng, Tingyu and Danielescu, Andreea and Zhang, Cheng and Mueller, Stefanie and Paradiso, Joe and Luo, Yiyue},
       booktitle={In Proceedings of UIST 2024},
