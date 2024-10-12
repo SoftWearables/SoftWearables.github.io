@@ -11,7 +11,9 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 
 > **Workshop location: [CMU Gates Hillman Center](https://maps.app.goo.gl/h5DxjZ7drtKeC2My8) => room NSH 3305**
 > 
-> Contact us: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
+> **Workshop participation: [Slido for Q&A](https://app.sli.do/event/a7fam86Xzr1cM89c4cHh8t) + [30 sec presentations](https://docs.google.com/presentation/d/1NUrE_GaCMi_kBCl31UWSf7iHoYmstzC0EOFzD7wbkjA)**
+> 
+> Contact: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
 ---
 
