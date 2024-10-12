@@ -9,7 +9,7 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 
 ## Links
 
-> Workshop location: [CMU Gates Hillman Center](https://maps.app.goo.gl/h5DxjZ7drtKeC2My8)
+> Workshop location: [CMU Gates Hillman Center](https://maps.app.goo.gl/h5DxjZ7drtKeC2My8) **GHC 4303**
 > 
 > **Workshop participation:**
 >  - **Morning: [Slido for Q&A](https://app.sli.do/event/a7fam86Xzr1cM89c4cHh8t)**
