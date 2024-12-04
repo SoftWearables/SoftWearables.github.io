@@ -18,8 +18,7 @@ Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, 
 **[Special Interest Group](https://chi2025.acm.org/for-authors/special-interest-groups/) Apr 26 (Yokohama, Japan)**
 
 [Catherine Yu](http://CatherineYu.com) (Cornell), [Cedric Honnet](https://honnet.eu) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (ND), [Junyi Zhu](https://www.junyizhu.com/) (uMich), [Ryo Takahashi](https://www.ryotakahashi.me/) (uTokyo) \
-[Cheng Zhang](http://CZhang.org) (Cornell), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (UW).
-[Irmandy Wicaksono](http://IrmandyW.com) (NUS)
+[Cheng Zhang](http://CZhang.org) (Cornell), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yoshihiro Kawahara](https://kawahara.akg.t.u-tokyo.ac.jp/home) (uTokyo), [Yiyue Luo](http://YyueLuo.com) (UW), [Irmandy Wicaksono](http://IrmandyW.com) (NUS)
 
 
 
