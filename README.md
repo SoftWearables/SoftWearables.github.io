@@ -1,12 +1,24 @@
 ## Table of content
 
-  - [CHI 2025 Special Interest Group (Japan), Apr 26](#chi-2025---special-interest-group-japan-apr-26)
+  - [CHI 2025 - Special Interest Group - Apr 26 (Yokohama, Japan)](#chi-2025)
 
-  - [UIST 2024 Workshop - CMU (Pittsburgh), Oct 13](uist-2024-workshop---cmu-pittsburgh-oct-13)
+  - [UIST 2024 - Workshop - Oct 13 - (CMU, Pittsburgh)](#uist-2024)
 
 ### Keywords
 
 Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, Actuation, Materials Sciences, Energy Harvesting.
+
+
+
+# [CHI 2025](https://chi2025.acm.org)
+
+**[Special Interest Group](https://chi2025.acm.org/for-authors/special-interest-groups/) Apr 26 (Yokohama, Japan)**
+
+[Catherine Yu](http://CatherineYu.com) (Cornell), [Cedric Honnet](https://honnet.eu) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (ND), [Junyi Zhu](https://www.junyizhu.com/) (uMich), [Ryo Takahashi](https://www.ryotakahashi.me/) (uTokyo) \
+[Cheng Zhang](http://CZhang.org) (Cornell), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (UW).
+[Irmandy Wicaksono](http://IrmandyW.com) (NUS)
+
+
 
 ### Abstract (in progress)
 
@@ -14,17 +26,8 @@ The field of intelligent soft wearables sits at the intersection of advanced mat
 
 
 
-
-# [CHI 2025](https://chi2025.acm.org) - [Special Interest Group](https://chi2025.acm.org/for-authors/special-interest-groups/) (Japan), Apr 26
-
-[Catherine Yu](http://CatherineYu.com) (Cornell), [Cedric Honnet](https://honnet.eu) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (ND), [Ryo Takahashi](https://www.ryotakahashi.me/) (uTokyo) \
-[Cheng Zhang](http://CZhang.org) (Cornell), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (UW).
-[Irmandy Wicaksono](http://IrmandyW.com) (MIT)
-
-
-
-
-# [UIST 2024](https://uist.acm.org/2024) Workshop - CMU (Pittsburgh), Oct 13
+# [UIST 2024](https://uist.acm.org/2024)
+**Workshop - Oct 13 (CMU, Pittsburgh)**
 
 [Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech), \
 [Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zhang](http://CZhang.org) (Cornell), [Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW).
