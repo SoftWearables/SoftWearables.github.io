@@ -9,6 +9,9 @@
 Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, Actuation, Materials Sciences, Energy Harvesting.
 
 
+---
+---
+
 
 # [CHI 2025](https://chi2025.acm.org)
 
@@ -25,9 +28,12 @@ Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, 
 The field of intelligent soft wearables sits at the intersection of advanced materials science, digital fabrication, and applied machine learning, enabling innovative interfaces that seamlessly integrate with the human body. This Special Interest Group session seeks to explore pathways to democratizing these technologies, focusing on scalability, accessibility, and customization for a broader range of users and contexts. By bringing together researchers and practitioners from diverse disciplines — including accessibility, architecture, or interaction design — we aim to foster greater cross-pollination within the CHI community. Through concise discussions and collaborative ideation, this session will address the grand challenges in advancing scalable and adaptive wearable systems. Participants will engage with topics such as computational design, conformable interfaces, and sustainable manufacturing, contributing to the future of wearables that are inclusive, generalizable, and impactful across domains.
 
 
+---
+---
+
 
 # [UIST 2024](https://uist.acm.org/2024)
-**Workshop - Oct 13 (CMU, Pittsburgh)**
+**[Workshop](https://uist.acm.org/2024/workshops/) - Oct 13 (CMU, Pittsburgh)**
 
 [Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech), \
 [Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zhang](http://CZhang.org) (Cornell), [Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW).
@@ -43,8 +49,6 @@ _Illustrating the breadth of wearable research, from materials science (1), to e
 
 ![UIST24 Workshop pics](https://github.com/user-attachments/assets/ccdba6b2-358c-4bb6-a3f7-68cf2af8474b)
 
-
----
 
 ## Worshop preparation information 📢
 
