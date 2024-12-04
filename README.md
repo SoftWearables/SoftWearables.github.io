@@ -1,4 +1,30 @@
-**_[UIST 2024](https://uist.acm.org/2024) Workshop - CMU (Pittsburgh), Oct 13_**
+## Table of content
+
+  - [CHI 2025 Special Interest Group (Japan), Apr 26](#chi-2025---special-interest-group-japan-apr-26)
+
+  - [UIST 2024 Workshop - CMU (Pittsburgh), Oct 13](uist-2024-workshop---cmu-pittsburgh-oct-13)
+
+### Keywords
+
+Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, Actuation, Materials Sciences, Energy Harvesting.
+
+### Abstract (in progress)
+
+The field of intelligent soft wearables sits at the intersection of advanced materials science, digital fabrication, and applied machine learning, enabling innovative interfaces that seamlessly integrate with the human body. This Special Interest Group session seeks to explore pathways to democratizing these technologies, focusing on scalability, accessibility, and customization for a broader range of users and contexts. By bringing together researchers and practitioners from diverse disciplines — including accessibility, architecture, or interaction design — we aim to foster greater cross-pollination within the CHI community. Through concise discussions and collaborative ideation, this session will address the grand challenges in advancing scalable and adaptive wearable systems. Participants will engage with topics such as computational design, conformable interfaces, and sustainable manufacturing, contributing to the future of wearables that are inclusive, generalizable, and impactful across domains.
+
+
+
+
+# [CHI 2025](https://chi2025.acm.org) - [Special Interest Group](https://chi2025.acm.org/for-authors/special-interest-groups/) (Japan), Apr 26
+
+[Catherine Yu](http://CatherineYu.com) (Cornell), [Cedric Honnet](https://honnet.eu) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (ND), [Ryo Takahashi](https://www.ryotakahashi.me/) (uTokyo) \
+[Cheng Zhang](http://CZhang.org) (Cornell), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (UW).
+[Irmandy Wicaksono](http://IrmandyW.com) (MIT)
+
+
+
+
+# [UIST 2024](https://uist.acm.org/2024) Workshop - CMU (Pittsburgh), Oct 13
 
 [Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech), \
 [Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zhang](http://CZhang.org) (Cornell), [Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW).
@@ -7,19 +33,17 @@
 _Illustrating the breadth of wearable research, from materials science (1), to energy harvesting (2), haptics for spacesuits (3), sustainable devices (4), to knitted neural networks (5)._
 
 
-## Links
+## Participation documentation
+>  - **[Participants presentations](https://docs.google.com/presentation/d/1NUrE_GaCMi_kBCl31UWSf7iHoYmstzC0EOFzD7wbkjA)** 
+>  - **[Slido for Q&A](https://app.sli.do/event/a7fam86Xzr1cM89c4cHh8t)**
+>  - Community contact: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
-> Workshop location: [CMU Gates Hillman Center](https://maps.app.goo.gl/h5DxjZ7drtKeC2My8) **GHC 4303**
-> 
-> **Workshop participation:**
->  - **Morning: [Slido for Q&A](https://app.sli.do/event/a7fam86Xzr1cM89c4cHh8t)**
->  - **Afternoon: [30 sec presentations](https://docs.google.com/presentation/d/1NUrE_GaCMi_kBCl31UWSf7iHoYmstzC0EOFzD7wbkjA)** 
-> 
-> Contact: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
+![UIST24 Workshop pics](https://github.com/user-attachments/assets/ccdba6b2-358c-4bb6-a3f7-68cf2af8474b)
+
 
 ---
 
-## News 📢
+## Worshop preparation information 📢
 
 ### 1) The schedule is up!
 (more details [below](https://softwearables.github.io/#schedule-details))
@@ -66,18 +90,14 @@ As time permits, I will also show how these EGaIn-based architectures can be ext
 
 <hr/>
 
-# Details about the workshop
+## Details about the workshop
 
-## Keywords
-Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, Actuation, Materials Sciences, Energy Harvesting.
-
-
-## Abstract
+### Abstract
 
 Wearables have long been integral to human culture and daily life.  Recent advances in intelligent soft wearables have dramatically transformed how we interact with the world, enhancing our health, productivity, and overall well-being. These innovations, combining advanced sensor design, fabrication, and computational power, offer unprecedented opportunities for monitoring, assistance, and augmentation. However, the benefits of these advancements are not yet universally accessible. Economic and technical barriers often limit the reach of these technologies to domain-specific experts. There is a growing need for democratizing intelligent wearables that are scalable, seamlessly integrated, customized, and adaptive. By bringing researchers from relevant disciplines together, this workshop aims to identify the challenges and investigate opportunities for democratizing intelligent soft wearables within the HCI community via interactive demos, invited keynotes, and focused panel discussions.
 
 
-## Introduction
+### Introduction
 
 Recent developments in materials science, digital fabrication, and applied machine learning have enabled significant advances in intelligent soft wearables. At the intersection of wearable technology and applied artificial intelligence, these wearables seamlessly integrate functionalities with the human body, serving as conformal sensing and actuation interfaces, and unobtrusively extract information and generate optimal feedback combined with advanced computational techniques. Some research efforts have been prioritizing functionality over conformability, either for sensing [2, 7, 10, 24] or actuation [4, 22, 25], but we propose to further investigate soft interfaces that conform to the body. They have already served as interactive interfaces [1, 8, 19, 23, 28], behavior monitoring and learning systems [13, 27, 29, 30], assistive wearables [5, 11, 14], human augmentation [9, 12, 18, 21], and entertainment [3, 6, 16, 20, 26], demonstrating great potential in HCI, healthcare, AR/VR, robotics, and space, among other applications.
 
@@ -85,7 +105,7 @@ However, despite their significant potential, most current intelligent wearables
 
 In this workshop, we aim to analyze the challenges and explore the opportunities in the democratization of such intelligent soft wearables, enabling them to be scalable, robust, customizable, and adaptive. The structure of the workshop is designed to maximize engagement through a combination of keynotes, interactive demos, group discussions, and expert panels.
 
-## Scope: Goals & Topics
+### Scope: Goals & Topics
 
 The democratization of intelligent soft wearables requires
 interdisciplinary efforts. In this workshop, we focus on the following
@@ -139,14 +159,14 @@ Topics of interest for the workshop include, for example:
 -   Miniaturization for conformability
 
 
-## Schedule Details
+### Schedule Details
 
-### Opening Session (15 min)
+#### Opening Session (15 min)
 
 The workshop will commence with a brief welcome session to introduce the
 agenda and objectives for the day.
 
-### Keynotes (1 hour)
+#### Keynotes (1 hour)
 
 In the morning, we plan to invite 2 keynote speakers in the field to
 present for 30 minutes. They will talk about insights into the latest
@@ -154,9 +174,9 @@ advancements and future trends in intelligent soft wearables. The
 keynotes will provide some background information for interactive
 discussion and panels in the afternoon.
 
-### Coffee break (30 min)
+#### Coffee break (30 min)
 
-### Panel Discussion (1 hour 15 min)
+#### Panel Discussion (1 hour 15 min)
 
 To prepare for a group discussion on challenges and opportunities of
 intelligent wearables, organizers will invite a panel of 3-5 experts in
@@ -171,7 +191,7 @@ and the input from attendees, the session aims to generate valuable
 discussions and actionable strategies for advancing the field of
 intelligent wearables.
 
-### Lunch break (1 hour 30 min)
+#### Lunch break (1 hour 30 min)
 
 ### Spotlight and Demo Session (1 hour 30 min)
 
@@ -188,9 +208,9 @@ explore the showcased demos. This format aims to promote collaboration,
 inspire new ideas, and facilitate networking among researchers,
 designers, and practitioners in the HCI field.
 
-### Coffee break (30 min)
+#### Coffee break (30 min)
 
-### Group Discussion on Challenges and Opportunities (1 hour)
+#### Group Discussion on Challenges and Opportunities (1 hour)
 
 Participants will be divided into subgroups and engage in a
 collaborative discussion to identify and analyze the major challenges
@@ -202,13 +222,13 @@ Building on the previous keynotes, this session will then focus on
 exploring opportunities and potential solutions in the design,
 fabrication, and computational aspects of intelligent wearables.
 
-### Closing Session (30 min)
+#### Closing Session (30 min)
 
 The workshop will conclude with a summary of key takeaways and a
 discussion of the next steps for fostering ongoing collaboration and
 innovation in the field of intelligent soft wearables.
 
-## Call for Participation
+### Call for Participation
 
 We invite participants and interactive demos from the UIST community who
 are experienced in or interested in the democratization of intelligent
@@ -220,7 +240,7 @@ participation not only within the UIST community but also within
 human-robot interaction and other AI venues.
 
 
-## References
+### References
 
 [1] Laura Devendorf, Joanne Lo, Noura Howell, Jung Lin Lee, Nan-Wei Gong, M Emre Karagozler, Shiho Fukuhara, Ivan Poupyrev, Eric Paulos, and Kimiko Ryokai. 2016. " I don't Want to Wear a Screen" Probing Perceptions of and Possibilities for Dynamic Displays on Clothing. In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems. 6028–6039. 
 
@@ -287,7 +307,7 @@ human-robot interaction and other AI venues.
 <hr/>
 
 
-## Cite the paper ([PDF](https://honnet.github.io/publications/UIST24-SoftWearables.pdf)):
+### Cite the paper ([PDF](https://honnet.github.io/publications/UIST24-SoftWearables.pdf)):
 
     Cedric Honnet, Catherine Yu, Irmandy Wicaksono, Tingyu Cheng, Andreea Danielescu, Cheng Zhang, Stefanie Mueller, Joe Paradiso, Yiyue Luo.
     "Democratizing Intelligent Soft Wearables."
