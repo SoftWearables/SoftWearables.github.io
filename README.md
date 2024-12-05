@@ -1,3 +1,5 @@
+# 
+
 ## Table of content
 
   - [CHI 2025 - Special Interest Group - Apr 26 (Yokohama, Japan)](#chi-2025)
@@ -15,16 +17,23 @@ Wearables, Applied Machine Learning, e-Textiles, Personal Fabrication, Sensing, 
 
 # [CHI 2025](https://chi2025.acm.org)
 
-**[Special Interest Group](https://chi2025.acm.org/for-authors/special-interest-groups/) - Apr 26 (Yokohama, Japan)**
+**[Special Interest Group](https://chi2025.acm.org/for-authors/special-interest-groups/) - Apr 26 (Yokohama, Japan) - PROPOSAL IN PROGRESS**
 
-[Catherine Yu](http://CatherineYu.com) (Cornell), [Cedric Honnet](https://honnet.eu) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (ND), [Junyi Zhu](https://www.junyizhu.com/) (uMich), [Ryo Takahashi](https://www.ryotakahashi.me/) (uTokyo) \
+[Catherine Yu](http://CatherineYu.com) (Cornell), [Cedric Honnet](https://honnet.eu) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech - ND), [Junyi Zhu](https://www.junyizhu.com/) (uMich), [Ryo Takahashi](https://www.ryotakahashi.me/) (uTokyo) \
 [Cheng Zhang](http://CZhang.org) (Cornell), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yoshihiro Kawahara](https://kawahara.akg.t.u-tokyo.ac.jp/home) (uTokyo), [Yiyue Luo](http://YyueLuo.com) (UW), [Irmandy Wicaksono](http://IrmandyW.com) (NUS)
 
+<img width="1641" alt="CHI banner" src="https://github.com/user-attachments/assets/91256ce1-a22c-4251-9ccc-859e48127104">
 
+_Showcasing the range of intelligent soft wearables: spanning the development of functional materials and composites for (a) recyclable electronics, (b) resistive fabrics, and (c) on-skin self-powered sensing; wearable platforms for (d) electrical impedance tomography and (e) capacitive-based pose tracking; digital manufacturing of knit textiles and modular printed circuits for (f) tactile sensing, (g) physiological sensing, (h) on-body interactions, and (i) soft robotics; and finally, (j) an adaptive embroidered smart glove for haptic-enabled learning._
 
-### Abstract (in progress)
+### Abstract
 
-The field of intelligent soft wearables sits at the intersection of advanced materials science, digital fabrication, and applied machine learning, enabling innovative interfaces that seamlessly integrate with the human body. This Special Interest Group session seeks to explore pathways to democratizing these technologies, focusing on scalability, accessibility, and customization for a broader range of users and contexts. By bringing together researchers and practitioners from diverse disciplines — including accessibility, architecture, or interaction design — we aim to foster greater cross-pollination within the CHI community. Through concise discussions and collaborative ideation, this session will address the grand challenges in advancing scalable and adaptive wearable systems. Participants will engage with topics such as computational design, conformable interfaces, and sustainable manufacturing, contributing to the future of wearables that are inclusive, generalizable, and impactful across domains.
+Human bodies are almost always in contact with soft materials like clothing, for warmth, protection, self-expression, etc.
+Recent advancements in intelligent soft wearables have augmented these on-body soft objects with computational functions and intelligence with little or no compromise on the softness and comforts of wearables, allowing prolonged wear.
+These innovations, which combine advanced soft sensor design, fabrication, and computational power, offer unprecedented opportunities to improve our health, productivity, and overall well-being with monitoring and assistive capabilities.
+However, the inherent physical properties of soft materials present unique challenges in achieving robust interactions.
+The complexity of intelligent soft wearables, multiplexing intricate designs, soft materials, flexible electronics, advanced signal processing algorithms, and machine learning models, necessitates collaborative efforts from experts across diverse domains.
+This Special Interest Group (SIG) aims to bring together interested researchers and practitioners across relevant domains to discuss the challenges and opportunities of intelligent soft wearables through a human-centered lens.
 
 
 ---
@@ -37,11 +46,11 @@ The field of intelligent soft wearables sits at the intersection of advanced mat
 [Cedric Honnet](https://honnet.eu) (MIT), [Catherine Yu](http://CatherineYu.com) (Cornell), [Irmandy Wicaksono](http://IrmandyW.com) (MIT), [Tingyu Cheng](http://TingyuCheng.com) (Georgia Tech), \
 [Andreea Danielescu](http://Antilipsi.ai) (Accenture Labs), [Cheng Zhang](http://CZhang.org) (Cornell), [Stefanie Mueller](http://hcie.csail.mit.edu/stefanie-mueller) (MIT), [Joe Paradiso](http://paradiso.media.mit.edu) (MIT), [Yiyue Luo](http://YyueLuo.com) (MIT-UW).
 
-![banner](https://github.com/user-attachments/assets/71486ce1-8ce5-45b0-9e0b-b36d5acf2886)
+![UIST banner](https://github.com/user-attachments/assets/71486ce1-8ce5-45b0-9e0b-b36d5acf2886)
 _Illustrating the breadth of wearable research, from materials science (1), to energy harvesting (2), haptics for spacesuits (3), sustainable devices (4), to knitted neural networks (5)._
 
 
-## Participation documentation
+## Personal documentation
 >  - **[Participants presentations](https://docs.google.com/presentation/d/1NUrE_GaCMi_kBCl31UWSf7iHoYmstzC0EOFzD7wbkjA)** 
 >  - **[Slido for Q&A](https://app.sli.do/event/a7fam86Xzr1cM89c4cHh8t)**
 >  - Community contact: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
