@@ -1,4 +1,4 @@
-# 
+###### _Bridging Disciplines Towards Wearables for Everyone, Everywhere._
 
 ## Table of content
 
