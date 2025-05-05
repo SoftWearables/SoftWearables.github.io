@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SoftWearables.github.io/sitemap.xml
+Sitemap: https://softwearables.github.io/sitemap.xml
