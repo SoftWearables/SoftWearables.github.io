@@ -29,4 +29,4 @@ nav_order: 4
 
 [**Yiyue Luo**](https://yyueluo.com/), University of Washington, USA
 
-[**Irmandy Wicaksono**](https://www.irmandyw.com/), NUS, Singapore
+[**Irmandy Wicaksono**](https://www.irmandyw.com/), National University of Singapore, Singapore
