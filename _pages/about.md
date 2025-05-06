@@ -14,7 +14,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-> Join our workshop @ UbiComp 2025 in Espoo, Finland!
+> Join our workshop @ [UbiComp 2025](https://www.ubicomp.org/ubicomp-iswc-2025/) in Espoo, Finland!
 
 > Workshop participation is open to everyone, as long as the venue space allows. We call for three kinds of contributions: interactive demos, experience/reflection reports, and Work in Progress (WiP)/position papers. Accepted demos/reports/papers are **not required** for attending the workshop.
 <div class="row">
