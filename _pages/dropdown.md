@@ -1,13 +1,10 @@
 ---
 layout: page
-title: submenus
+title: Previous
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: UIST'24
+    permalink: /uist24/
 ---
