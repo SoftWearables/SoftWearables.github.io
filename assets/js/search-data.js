@@ -73,6 +73,9 @@ ninja.data = [{
           section: "News",},{id: "news-ubicomp-workshop-cfp-released-looking-forward-to-your-submissions",
           title: 'UbiComp Workshop CFP released! Looking forward to your submissions!',
           description: "",
+          section: "News",},{id: "news-pcs-submission-opens",
+          title: 'PCS submission opens.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
