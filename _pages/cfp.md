@@ -34,7 +34,7 @@ Submissions areas of interest include (but are not limited to):
 
 ### Preparing for the Submission
 All submissions need to be formatted according to the ACM double-column UbiComp-ISWC 2025 Proceedings and managed via the Precision Conference System (PCS). 
-Detailed PCS instructions are coming soon...
+To make a new submission on [PCS](https://new.precisionconference.com/submissions), select SIGCHI (Society) -> UbiComp/ISWC 2025 (Conference/Journal) -> UbiComp/ISWC 2025 SoftWearables (track).
 References and appedices do not count towards page limits.
 
 ### Review Process
