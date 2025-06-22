@@ -76,6 +76,9 @@ ninja.data = [{
           section: "News",},{id: "news-pcs-submission-opens",
           title: 'PCS submission opens.',
           description: "",
+          section: "News",},{id: "news-submission-deadline-extended-to-7-3-25",
+          title: 'Submission deadline extended to 7/3/25.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
