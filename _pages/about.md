@@ -30,7 +30,7 @@ latest_posts:
 Human bodies are almost always in contact with soft materials like clothing, for warmth, protection, self-expression, etc. Recent advancements in intelligent soft wearables have augmented these on-body soft objects with computational functions and intelligence with little compromise on the softness and comforts of wearables, allowing prolonged wear. These innovations, which combine advanced soft sensor design, fabrication, and computational power, offer unprecedented opportunities to improve our health, productivity, and overall well-being with monitoring and assistive capabilities. However, the inherent physical properties of soft materials present unique challenges in achieving practical interactions. The complexity of intelligent soft wearables, multiplexing intricate designs, soft materials, flexible electronics, advanced signal processing algorithms, and machine learning models, necessitates collaborative efforts from experts across diverse domains. This workshop aims to **bring together interested researchers and practitioners across relevant domains to discuss the challenges and opportunities of intelligent soft wearables**.
 
 ### Important Dates:
-* [ ] **6/26/25 AoE**: Submission Deadline
+* [ ] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline
 * [ ] **7/17/25 AoE**: Decision Notification
 * [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL 
 * [ ] **TBD (10/12/25 or 10/13/25)**: Day of the Workshop 
