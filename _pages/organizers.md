@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-[**Tianhong Catherine Yu**](https://catherineyu.com/), Cornell Univeristy, USA
+[**Tianhong Catherine Yu**](https://catherineyu.com/), Cornell University, USA
 
 [**Cedric Honnet**](https://honnet.github.io/), MIT Media Lab, USA
 
@@ -17,7 +17,7 @@ nav_order: 4
 
 [**Bo Zhou**](https://www.drzhou.work/), DFKI, Germany
 
-[**Cheng Zhang**](https://czhang.org/), Cornell Univeristy, USA
+[**Cheng Zhang**](https://czhang.org/), Cornell University, USA
 
 [**Paul Lukowicz**](https://www.dfki.de/en/web/about-us/employee/person/palu01), DFKI, Germany
 
