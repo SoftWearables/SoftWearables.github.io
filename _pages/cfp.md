@@ -14,7 +14,7 @@ We invite participants who are experienced in and/or interested in intelligent s
 **Workshop participation is open to everyone**, if the venue space allows, without submitting a demo/report/paper.
 
 ### Important Dates
-* [ ] **6/26/25 AoE**: Submission Deadline
+* [ ] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline
 * [ ] **7/17/25 AoE**: Decision Notification
 * [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL 
 * [ ] **TBD (10/12/25 or 10/13/25)**: Day of the Workshop 
