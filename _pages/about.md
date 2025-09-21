@@ -35,6 +35,6 @@ Human bodies are almost always in contact with soft materials like clothing, for
 * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline
 * [x] **7/17/25 AoE**: Decision Notification
 * [x] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL 
-* [ ] 10/13/25: Day of the Workshop 
+* [ ] **10/13/25**: Day of the Workshop 
 
 If you have any questions, please contact ty274[at]cornell[dot]edu.

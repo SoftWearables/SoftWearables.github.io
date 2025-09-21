@@ -17,7 +17,7 @@ We invite participants who are experienced in and/or interested in intelligent s
 * [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline
 * [x] **7/17/25 AoE**: Decision Notification
 * [x] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL 
-* [ ] 10/13/25: Day of the Workshop 
+* [ ] **10/13/25**: Day of the Workshop 
 
 ### Topics of Interest
 Submissions areas of interest include (but are not limited to):
