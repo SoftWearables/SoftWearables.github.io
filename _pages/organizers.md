@@ -4,7 +4,7 @@ permalink: /organizers/
 title: Organizers
 description: 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 [**Tianhong Catherine Yu**](https://catherineyu.com/), Cornell University, USA

@@ -4,7 +4,7 @@ permalink: /cfp/
 title: CFP
 description: Call for Participation
 nav: true
-nav_order: 2
+nav_order: 4
 ---
 We invite participants who are experienced in and/or interested in intelligent soft wearables. We call for three kinds of contributions:
 * **Interactive Demos** to be showcased during the worshop's demo session: up-to-2-page submission,
@@ -14,10 +14,10 @@ We invite participants who are experienced in and/or interested in intelligent s
 **Workshop participation is open to everyone**, if the venue space allows, without submitting a demo/report/paper.
 
 ### Important Dates
-* [ ] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline
-* [ ] **7/17/25 AoE**: Decision Notification
-* [ ] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL 
-* [ ] **TBD (10/12/25 or 10/13/25)**: Day of the Workshop 
+* [x] **~~6/26/25~~ 7/3/25 AoE**: Submission Deadline
+* [x] **7/17/25 AoE**: Decision Notification
+* [x] **7/24/25 AoE**: Deadline for Camera-Ready Versions to be Included in ACM DL 
+* [ ] 10/13/25: Day of the Workshop 
 
 ### Topics of Interest
 Submissions areas of interest include (but are not limited to):
