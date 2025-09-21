@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "Tentative Schedule of the 1-Day Workshop",
+          description: "Tentative Schedule of the Half-Day Workshop",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
