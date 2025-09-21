@@ -9,16 +9,16 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cfp",
-          title: "CFP",
-          description: "Call for Participation",
+  },{id: "nav-attending",
+          title: "Attending",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cfp/";
+            window.location.href = "/attending/";
           },
         },{id: "nav-schedule",
           title: "Schedule",
-          description: "Tentative Schedule of the 1-Day Workshop",
+          description: "Tentative Schedule of the Half-Day Workshop",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
@@ -29,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/organizers/";
+          },
+        },{id: "nav-cfp",
+          title: "CFP",
+          description: "Call for Participation",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cfp/";
           },
         },{id: "dropdown-uist-39-24",
               title: "UIST&#39;24",
