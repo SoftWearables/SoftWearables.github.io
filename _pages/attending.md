@@ -13,7 +13,7 @@ nav_order: 2
 
 **Time: October 13th 9:00-13:00**
 
-**Location: (U5 76) 147, Aalto University**
+**Location: U9 271, Aalto University** (location changed!!)
 
 Register for our workshop via the [UbiComp/ISWC registration](https://www.ubicomp.org/ubicomp-iswc-2025/attending/registration/). All participants are strongly encouraged to bring their physical artifacts/demos to share during the demo/poster session!
 
