@@ -10,10 +10,10 @@ nav_order: 2
 | Time     | Duration | Event                                              |
 | -------- | -------- | -------------------------------------------------- |
 | 9:00 AM  | 0 h 15   | **Welcome and Introductions**                      |
-| 9:15 AM  | 0 h 45   | **Keynote by [Professor Michael Haller](https://www.mediainteractionlab.eu/?page_id=561), followed by 15min Q&A**                                                    |
-| 10:00 AM  | 0 h 45   | **Keynote by [Professor Lucy Dunne](https://healthinformatics.umn.edu/staff/lucy-dunne), followed by 15min Q&A**                                                    |
-| 10:45 AM | 0 h 15   | Coffee Break                                       |
-| 11:00 PM | 2 h 00   | **Demo&Poster Session**                |
+| 9:15 AM  | 0 h 45   | **Keynote by [Professor Michael Haller](https://www.mediainteractionlab.eu/?page_id=561), followed by 15min Q&A** |
+| 10:00 AM | 0 h 15   | Coffee Break                                       |
+| 10:15 AM | 0 h 45   | **Keynote by [Professor Lucy Dunne](https://healthinformatics.umn.edu/staff/lucy-dunne), followed by 15min Q&A**  |
+| 11:00 PM | 2 h 00   | **Demo and Poster Session**                        |
 
 
 ---
