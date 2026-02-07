@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: Tentative Schedule of the Half-Day Workshop
+description: Tentative Schedule of the 90min Course
 nav: true
 nav_order: 2
 ---
