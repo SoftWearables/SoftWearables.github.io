@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-attending",
-          title: "Attending",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/attending/";
-          },
-        },{id: "nav-schedule",
+  },{id: "nav-schedule",
           title: "Schedule",
           description: "Tentative Schedule of the Half-Day Workshop",
           section: "Navigation",
@@ -30,14 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organizers/";
           },
-        },{id: "nav-cfp",
-          title: "CFP",
-          description: "Call for Participation",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cfp/";
-          },
-        },{id: "dropdown-uist-39-24",
+        },{id: "dropdown-ubicomp-39-25",
+              title: "UBICOMP&#39;25",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ubicomp25/";
+              },
+            },{id: "dropdown-uist-39-24",
               title: "UIST&#39;24",
               description: "",
               section: "Dropdown",
@@ -74,17 +67,8 @@ ninja.data = [{
             },},{id: "news-successful-uist-workshop-hosted-we-had-a-full-room-discussing-democratizing-intelligent-soft-wearables",
           title: 'Successful UIST workshop hosted! We had a full room discussing democratizing intelligent soft...',
           description: "",
-          section: "News",},{id: "news-ubicomp-workshop-accepted",
-          title: 'UbiComp Workshop Accepted!',
-          description: "",
-          section: "News",},{id: "news-ubicomp-workshop-cfp-released-looking-forward-to-your-submissions",
-          title: 'UbiComp Workshop CFP released! Looking forward to your submissions!',
-          description: "",
-          section: "News",},{id: "news-pcs-submission-opens",
-          title: 'PCS submission opens.',
-          description: "",
-          section: "News",},{id: "news-submission-deadline-extended-to-7-3-25",
-          title: 'Submission deadline extended to 7/3/25.',
+          section: "News",},{id: "news-successful-ubicomp-workshop-hosted-fruitful-and-fun-discussion-on-intelligent-soft-wearables",
+          title: 'Successful UbiComp workshop hosted! Fruitful and fun discussion on intelligent soft wearables.',
           description: "",
           section: "News",},{
         id: 'social-email',
