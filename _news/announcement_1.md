@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-26
+date: 2025-10-13
 inline: true
 related_posts: false
 ---
 
-UbiComp Workshop Accepted!
+Successful UbiComp workshop hosted! Fruitful and fun discussion on intelligent soft wearables.

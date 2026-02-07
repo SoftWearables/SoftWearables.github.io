@@ -293,7 +293,7 @@ human-robot interaction and other AI venues.
 <hr/>
 
 
-### Cite the paper ([PDF](https://honnet.github.io/publications/UIST24-SoftWearables.pdf)):
+### Cite the workshop ([PDF](https://honnet.github.io/publications/UIST24-SoftWearables.pdf)):
 
     Cedric Honnet, Tianhong Catherine Yu, Irmandy Wicaksono, Tingyu Cheng, Andreea Danielescu, Cheng Zhang, Stefanie Mueller, Joe Paradiso, Yiyue Luo.
     "Democratizing Intelligent Soft Wearables."

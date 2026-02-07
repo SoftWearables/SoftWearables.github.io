@@ -3,7 +3,7 @@ layout: page
 permalink: /cfp/
 title: CFP
 description: Call for Participation
-nav: true
+nav: false
 nav_order: 4
 ---
 We invite participants who are experienced in and/or interested in intelligent soft wearables. We call for three kinds of contributions:
