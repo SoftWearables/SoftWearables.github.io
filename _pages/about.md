@@ -16,7 +16,8 @@ latest_posts:
 ---
 > [SIGGRAPH 2026 Course](https://s2026.siggraph.org/program/courses/) Proposal - Jul 19-23 @ LA
 
-![SIGGRAPH_2026](https://github.com/user-attachments/assets/62bb99d2-419c-4071-bb9a-efefda03e310)
+<img src="https://github.com/user-attachments/assets/62bb99d2-419c-4071-bb9a-efefda03e310" width="900">
+
 _Design and interaction pipeline: computational design (1), integration (2), sensing (3), processing (4), actuation (5)._
 
 ___
