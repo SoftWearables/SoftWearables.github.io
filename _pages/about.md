@@ -14,7 +14,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-> [UbiComp/ISWC 2026 Workshop](https://www.ubicomp.org/ubicomp-iswc-2026/workshop-cfp) Proposal - October 13-15, 2026 - Shanghai
+> [UbiComp/ISWC 2026 Workshop](https://www.ubicomp.org/ubicomp-iswc-2026/workshop-cfp) Proposal - October 11-12, 2026 - Shanghai
 
 <img src="https://github.com/user-attachments/assets/a6e2b42e-51fc-4b3c-b7f3-ff6a50d3b882" width="900">
 
