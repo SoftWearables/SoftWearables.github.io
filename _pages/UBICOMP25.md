@@ -76,7 +76,7 @@ Late-Breaking Work:
 
     Cedric Honnet, Tianhong Catherine Yu, Irmandy Wicaksono, Tingyu Cheng, Andreea Danielescu, Cheng Zhang, Stefanie Mueller, Joe Paradiso, Yiyue Luo.
     "Democratizing Intelligent Soft Wearables."
-    In Proceedings of UIST 2024, https://doi.org/10.1145/3672539.3686707
+    In Proceedings of UbiComp 2025, https://doi.org/10.1145/3714394.3750561
 
 LaTex:
 
