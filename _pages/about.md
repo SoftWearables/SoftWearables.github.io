@@ -28,6 +28,30 @@ Human bodies are almost always in contact with soft materials like clothing, for
 
 ___
 
+### Keynote speakers
+
+- Pr. [Yokota Tomoyuki](https://www.ee.t.u-tokyo.ac.jp/en/staff/yokota-tomoyuki), University of Tokyo
+
+- Pr. [Xi Tian](https://tian-xi.com/), Tsinghua University
+
+
+___
+
+### Position Papers
+
+- Calling for **demos** (the best!), **posters**, or **reflections**: 1-2 pages
+
+- Submission deadline: **June 27** (first come, first confirmed!)
+
+- Non-archival, but **will be in the ACM website** 
+
+- Ressources:
+    - [Full description of the call for proposal](https://github.com/user-attachments/files/28241870/Ubicomp_2026__SoftWearables_Workshop.pdf)
+    - [Last year examples](https://dl.acm.org/doi/proceedings/10.1145/3714394#heading18)
+    - [Template](https://www.ubicomp.org/ubicomp-iswc-2026/formatting/)
+
+___
+
 If you have any questions, please contact SoftWearables(AT)mit.edu.
 
 
