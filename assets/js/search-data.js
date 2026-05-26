@@ -70,6 +70,9 @@ ninja.data = [{
           section: "News",},{id: "news-successful-ubicomp-workshop-hosted-fruitful-and-fun-discussion-on-intelligent-soft-wearables",
           title: 'Successful UbiComp workshop hosted! Fruitful and fun discussion on intelligent soft wearables.',
           description: "",
+          section: "News",},{id: "news-announcing-ubicomp-2026-workshop-details",
+          title: 'Announcing UbiComp 2026 workshop details!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
