@@ -39,6 +39,8 @@ ___
 
 ### Position Papers
 
+- **Pre-registration** [here](https://forms.gle/9DfLbUhmZxy36MUZA)!
+
 - Calling for **demos** (the best!), **posters**, or **reflections**: 1-2 pages
 
 - Submission deadline: **June 27** (first come, first confirmed!)
