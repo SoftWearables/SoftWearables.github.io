@@ -39,11 +39,11 @@ ___
 
 ### Position Papers
 
-- **Pre-registration** [here](https://forms.gle/9DfLbUhmZxy36MUZA)!
+- **Submissions [here](https://new.precisionconference.com/submissions)** (click on SIGCHI => Ubicomp/ISWC Workshop 2026 => Intelligent Soft Wearables)
 
 - Calling for **demos** (the best!), **posters**, or **reflections**: 1-2 pages
 
-- Submission deadline: **June 27** (first come, first confirmed!)
+- Submission deadline: **June 27** (first come, first confirmed // let us know if you need more time)
 
 - Non-archival, but **will be in the ACM website** 
 
