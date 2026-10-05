@@ -14,7 +14,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-> [UbiComp/ISWC 2026 Workshop](https://www.ubicomp.org/ubicomp-iswc-2026/workshop-cfp) Proposal - October 11-12, 2026 - Shanghai
+> [UbiComp/ISWC 2026 Workshop](https://www.ubicomp.org/ubicomp-iswc-2026/workshop-cfp) - **October 12, 2pm** - Shanghai - **SICC room 5D** ([official page](https://www.ubicomp.org/ubicomp-iswc-2026/workshops-2026/))
 
 <img src="https://github.com/user-attachments/assets/a6e2b42e-51fc-4b3c-b7f3-ff6a50d3b882" width="900">
 
@@ -37,7 +37,7 @@ ___
 
 ___
 
-### Position Papers
+### Position Papers Proposals (archive)
 
 - **Submissions [here](https://new.precisionconference.com/submissions)** (click on SIGCHI => Ubicomp/ISWC Workshop 2026 => Intelligent Soft Wearables)
 
