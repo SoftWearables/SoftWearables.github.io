@@ -2,4 +2,4 @@
 
 Using the [al-folio](https://github.com/alshedivat/al-folio) template.
 
-To view locally, run ``docker compose up`` and open ``http://localhost:8080``.
+To view locally, run `docker compose up` and open `http://localhost:8080`.

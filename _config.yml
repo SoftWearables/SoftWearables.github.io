@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Intelligent Soft Wearables # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name: 
-last_name: 
+first_name:
+middle_name:
+last_name:
 contact_note: >
   SoftWearables(AT)mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

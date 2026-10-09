@@ -9,5 +9,4 @@ children:
     permalink: /ubicomp25/
   - title: UIST'24
     permalink: /uist24/
-
 ---
