@@ -22,7 +22,7 @@ UIST [Workshop](https://uist.acm.org/2024/workshops/), 10/13/24, Pittsburgh, USA
 
 ## Post-Workshop Documentation
 
-> - **[Participants presentations](https://docs.google.com/presentation/d/1NUrE_GaCMi_kBCl31UWSf7iHoYmstzC0EOFzD7wbkjA)**
+> - **[Participants presentations](https://docs.google.com/presentation/d/1nSeDLF9ruxwqn-McTKBkhgw14pgp7t44LvJUsysFSvU/)**
 > - **[Slido for Q&A](https://app.sli.do/event/a7fam86Xzr1cM89c4cHh8t)**
 > - Community contact: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
 
