@@ -29,6 +29,15 @@ Human bodies are almost always in contact with soft materials like clothing, for
 
 ---
 
+### Post-Workshop Documentation
+
+> - **[Participants presentations](https://docs.google.com/presentation/d/1NUrE_GaCMi_kBCl31UWSf7iHoYmstzC0EOFzD7wbkjA)**
+> - Community contact: <a href="mailto:SoftWearables(AT)mit.edu">SoftWearables(AT)mit.edu</a>
+
+<img src="https://github.com/user-attachments/assets/5dc2f32a-f797-48e3-8408-ae54524d4e0a" width="900">
+
+---
+
 ### Keynotes
 
 #### 1) Prof. [Tomoyuki Yokota](https://www.ee.t.u-tokyo.ac.jp/en/staff/yokota-tomoyuki), University of Tokyo
