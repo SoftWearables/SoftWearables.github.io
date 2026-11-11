@@ -5,6 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: UBICOMP'26
+    permalink: /ubicomp26/
   - title: UBICOMP'25
     permalink: /ubicomp25/
   - title: UIST'24

@@ -17,7 +17,7 @@ UbiComp [Workshop](https://www.ubicomp.org/ubicomp-iswc-2025/workshops-and-tutor
 
 Human bodies are almost always in contact with soft materials like clothing, for warmth, protection, self-expression, etc. Recent advancements in intelligent soft wearables have augmented these on-body soft objects with computational functions and intelligence with little compromise on the softness and comforts of wearables, allowing prolonged wear. These innovations, which combine advanced soft sensor design, fabrication, and computational power, offer unprecedented opportunities to improve our health, productivity, and overall well-being with monitoring and assistive capabilities. However, the inherent physical properties of soft materials present unique challenges in achieving practical interactions. The complexity of intelligent soft wearables, multiplexing intricate designs, soft materials, flexible electronics, advanced signal processing algorithms, and machine learning models, necessitates collaborative efforts from experts across diverse domains. This workshop aims to **bring together interested researchers and practitioners across relevant domains to discuss the challenges and opportunities of intelligent soft wearables**.
 
-### Organziers
+### Organizers
 
 [**Tianhong Catherine Yu**](https://catherineyu.com/), Cornell University, USA, [**Cedric Honnet**](https://honnet.github.io/), MIT Media Lab, USA, [**Tingyu Cheng**](https://tingyucheng.com/about), University of Notre Dame, USA, [**Ryo Takahashi**](https://www.ryotakahashi.me/), The University of Tokyo, Japan, [**Bo Zhou**](https://www.drzhou.work/), DFKI, Germany, [**Cheng Zhang**](https://czhang.org/), Cornell University, USA, [**Paul Lukowicz**](https://www.dfki.de/en/web/about-us/employee/person/palu01), DFKI, Germany, [**Yoshihiro Kawahara**](https://kawahara.akg.t.u-tokyo.ac.jp/home), The University of Tokyo, Japan, [**Josiah Hester**](https://www.josiahhester.com/), Georgia Tech, USA, [**Joseph A. Paradiso**](https://www.media.mit.edu/people/joep/overview/), MIT Media Lab, USA, [**Yiyue Luo**](https://yyueluo.com/), University of Washington, USA, [**Irmandy Wicaksono**](https://www.irmandyw.com/), National University of Singapore, Singapore
 
@@ -31,7 +31,7 @@ Human bodies are almost always in contact with soft materials like clothing, for
     </div>
 </div>
 
-## Worshop preparation information 📢
+## Workshop preparation information 📢
 
 ### Schedule
 
@@ -80,9 +80,9 @@ Late-Breaking Work:
 
 ### Cite the workshop ([PDF](https://dl.acm.org/doi/epdf/10.1145/3714394.3750561)):
 
-    Cedric Honnet, Tianhong Catherine Yu, Irmandy Wicaksono, Tingyu Cheng, Andreea Danielescu, Cheng Zhang, Stefanie Mueller, Joe Paradiso, Yiyue Luo.
-    "Democratizing Intelligent Soft Wearables."
-    In Proceedings of UbiComp 2025, https://doi.org/10.1145/3714394.3750561
+    Tianhong Catherine Yu, Cedric Honnet, Tingyu Cheng, Ryo Takahashi, Bo Zhou, Cheng Zhang, Paul Lukowicz, Yoshihiro Kawahara, Josiah Hester, Joseph A. Paradiso, Yiyue Luo, Irmandy Wicaksono.
+    "Intelligent Soft Wearables."
+    In Companion of UbiComp 2025, https://doi.org/10.1145/3714394.3750561
 
 LaTex:
 

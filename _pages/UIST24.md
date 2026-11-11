@@ -32,7 +32,7 @@ UIST [Workshop](https://uist.acm.org/2024/workshops/), 10/13/24, Pittsburgh, USA
     </div>
 </div>
 
-## Worshop preparation information 📢
+## Workshop preparation information 📢
 
 #### The schedule is up!
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successful UbiComp workshop hosted! Fruitful and fun discussion on intelligent soft wearables.
+Successful UbiComp 2025 workshop hosted in Espoo! Fruitful and fun discussion on intelligent soft wearables.
