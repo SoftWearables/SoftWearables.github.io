@@ -1417,3 +1417,26 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Heading anchors, added by assets/js/heading-anchors.js
+.heading-anchor {
+  margin-left: 0.4em;
+  color: var(--global-text-color-light) !important;
+  text-decoration: none !important;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+h2:hover > .heading-anchor,
+h3:hover > .heading-anchor,
+h4:hover > .heading-anchor,
+h5:hover > .heading-anchor,
+.heading-anchor:focus {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .heading-anchor {
+    opacity: 0.5;
+  }
+}
