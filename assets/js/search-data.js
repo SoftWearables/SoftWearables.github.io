@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-schedule",
           title: "Schedule",
-          description: "Tentative Schedule of the 90min Course",
+          description: "Tentative Schedule of the Half-Day Workshop",
           section: "Navigation",
           handler: () => {
             window.location.href = "/schedule/";
@@ -23,7 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organizers/";
           },
-        },{id: "dropdown-ubicomp-39-25",
+        },{id: "dropdown-ubicomp-39-26",
+              title: "UBICOMP&#39;26",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/ubicomp26/";
+              },
+            },{id: "dropdown-ubicomp-39-25",
               title: "UBICOMP&#39;25",
               description: "",
               section: "Dropdown",
@@ -59,14 +66,17 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-successful-uist-workshop-hosted-we-had-a-full-room-discussing-democratizing-intelligent-soft-wearables",
-          title: 'Successful UIST workshop hosted! We had a full room discussing democratizing intelligent soft...',
+      },{id: "news-successful-uist-2024-workshop-hosted-in-pittsburgh-we-had-a-full-room-discussing-democratizing-intelligent-soft-wearables",
+          title: 'Successful UIST 2024 workshop hosted in Pittsburgh! We had a full room discussing...',
           description: "",
-          section: "News",},{id: "news-successful-ubicomp-workshop-hosted-fruitful-and-fun-discussion-on-intelligent-soft-wearables",
-          title: 'Successful UbiComp workshop hosted! Fruitful and fun discussion on intelligent soft wearables.',
+          section: "News",},{id: "news-successful-ubicomp-2025-workshop-hosted-in-espoo-fruitful-and-fun-discussion-on-intelligent-soft-wearables",
+          title: 'Successful UbiComp 2025 workshop hosted in Espoo! Fruitful and fun discussion on intelligent...',
           description: "",
-          section: "News",},{id: "news-announcing-ubicomp-2026-workshop-details",
-          title: 'Announcing UbiComp 2026 workshop details!',
+          section: "News",},{id: "news-successful-ubicomp-2026-workshop-hosted-in-shanghai-thanks-to-our-keynote-speakers-and-all-participants",
+          title: 'Successful UbiComp 2026 workshop hosted in Shanghai! Thanks to our keynote speakers and...',
+          description: "",
+          section: "News",},{id: "news-workshop-proposal-submitted-to-icra-2027-seoul-expanding-intelligent-soft-wearables-to-robotics",
+          title: 'Workshop proposal submitted to ICRA 2027 (Seoul), expanding intelligent soft wearables to robotics....',
           description: "",
           section: "News",},{
         id: 'social-email',

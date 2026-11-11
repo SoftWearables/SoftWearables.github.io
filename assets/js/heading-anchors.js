@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll("article h2[id], article h3[id], article h4[id], article h5[id]").forEach((e=>{const t=document.createElement("a");t.className="heading-anchor",t.href=`#${e.id}`,t.setAttribute("aria-label",`Link to section: ${e.textContent.trim()}`),t.textContent="#",e.appendChild(t)}))}));
